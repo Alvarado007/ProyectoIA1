@@ -1,0 +1,4 @@
+Calculo,Prof_A,Grupo_1
+Fisica,Prof_B,Grupo_1
+Programacion,Prof_A,Grupo_2
+Estructuras,Prof_C,Grupo_2
